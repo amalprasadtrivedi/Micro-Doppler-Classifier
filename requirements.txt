@@ -1,0 +1,23 @@
+# Core Libraries
+numpy==1.26.4
+pandas==2.2.2
+joblib==1.4.2
+pathlib2==2.3.7.post1
+
+# PyTorch and TorchVision
+torch==2.3.0
+torchvision==0.18.0
+
+# Machine Learning
+scikit-learn==1.4.2
+
+# Image Processing
+opencv-python==4.9.0.80
+Pillow==10.3.0
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Web UI
+streamlit==1.35.0
