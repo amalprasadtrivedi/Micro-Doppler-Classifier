@@ -81,7 +81,7 @@ with st.sidebar:
     # External Links
     st.markdown("### 🔍 Connect with Developer")
     st.link_button("🌐 Portfolio", "https://amalprasadtrivediportfolio.vercel.app/")
-    st.link_button("🔗 LinkedIn", "https://linkedin.com/posts/amalprasadtrivedi-aiml-engineer")
+    st.link_button("🔗 LinkedIn", "https://www.linkedin.com/in/amalprasadtrivedi-aiml-engineer")
     st.markdown("---")
 
     # Footer badge
