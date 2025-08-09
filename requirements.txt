@@ -8,6 +8,9 @@ pathlib2
 torch
 torchvision
 
+# Computer Vision
+cv2
+
 # Machine Learning
 scikit-learn
 
