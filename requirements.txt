@@ -5,8 +5,8 @@ joblib==1.4.2
 pathlib2==2.3.7.post1
 
 # PyTorch and TorchVision
-torch==2.3.0
-torchvision==0.18.0
+torch
+torchvision
 
 # Machine Learning
 scikit-learn==1.4.2
