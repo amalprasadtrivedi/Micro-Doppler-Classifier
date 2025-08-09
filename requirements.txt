@@ -9,15 +9,15 @@ torch
 torchvision
 
 # Machine Learning
-scikit-learn==1.4.2
+scikit-learn
 
 # Image Processing
-opencv-python==4.9.0.80
-Pillow==10.3.0
+opencv-python
+Pillow
 
 # Visualization
-matplotlib==3.8.4
-seaborn==0.13.2
+matplotlib
+seaborn
 
 # Web UI
-streamlit==1.35.0
+streamlit
