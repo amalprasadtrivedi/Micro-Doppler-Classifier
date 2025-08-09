@@ -1,8 +1,8 @@
 # Core Libraries
-numpy==1.26.4
-pandas==2.2.2
-joblib==1.4.2
-pathlib2==2.3.7.post1
+numpy
+pandas
+joblib
+pathlib2
 
 # PyTorch and TorchVision
 torch
@@ -20,4 +20,4 @@ matplotlib
 seaborn
 
 # Web UI
-streamlit
+streamlit 
